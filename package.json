@@ -20,6 +20,10 @@
     "build": "tsup",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codeskills-dev/npm-demo-ts.git"
+  },
   "keywords": [
     "demo",
     "typescript",
