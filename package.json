@@ -1,6 +1,6 @@
 {
   "name": "npm-demo-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A demo NPM package in Typescript",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
